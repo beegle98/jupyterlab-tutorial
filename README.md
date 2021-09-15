@@ -1,2 +1,0 @@
-# jupyterlab-tutorial
-jupyterlab-tutorial
